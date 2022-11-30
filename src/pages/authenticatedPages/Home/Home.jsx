@@ -2,7 +2,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-    <h1>Thi is home</h1>
+    <h1>Thi is homesdfs</h1>
   )
 }
 
